@@ -1,0 +1,9 @@
+.snackbarCustom {
+    margin-bottom: 56px;
+}
+
+@media (min-width: 600px) {
+    .snackbarCustom {
+        margin-bottom: 64px;
+    }
+}

@@ -1,0 +1,14 @@
+.nameContainer {
+    position: absolute;
+    bottom: 1px;
+    right: 1px; 
+    background-color: rgba(0, 0, 0, 0.65);
+    color: white;
+    padding: 4px 6px 4px 6px;
+    border-radius: 4px 0 5px 0;
+    font-size: 0.8rem;
+    min-height: 1rem;
+    display: flex;
+    align-items: center;
+    gap: 3px;
+}
