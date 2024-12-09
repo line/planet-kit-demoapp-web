@@ -103,6 +103,10 @@ $ npm run start-local
 
 After starting the application, you can use the your LINE Planet Call at `https://line-planet-call-local.lineplanet.me:3000`.
 
+## Limitations
+
+In LINE Planet Call, each call is limited to a duration of five minutes. After five minutes, the call ends with the MAX_CALL_TIME_EXCEEDED disconnect reason.
+
 ## Issues and inquiries
 
 Please file any issues or inquiries you have to our representative or [dl_planet_help@linecorp.com](mailto:dl_planet_help@linecorp.com). Your opinions are always welcome.
