@@ -4,6 +4,10 @@ LINE Planet Call is a demo app for LINE Planet, a cloud-based real-time communic
 
 LINE Planet Call showcases the key features of LINE Planet, including 1-to-1 and group call functionalities. It can help you understand how to integrate LINE Planet into your services and enhance productivity when you implement your own app.
 
+## Planet Documentation
+
+[Planet Documentation](https://docs.lineplanet.me/) provides additional resources to help you integrate LINE Planet into your service. These resources include LINE Planet specifications, developer guides for each client platform, and server API references.
+
 ## Features
 
 LINE Planet Call provides the following features:
