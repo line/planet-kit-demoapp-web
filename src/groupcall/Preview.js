@@ -100,7 +100,7 @@ function Preview() {
                 );
 
                 dispatch(mediaDevicesActions.changeAudioInputDeviceId(mic.id));
-                dispatch(mediaDevicesActions.changeAudioOutputDeviceId(speaker.d));
+                dispatch(mediaDevicesActions.changeAudioOutputDeviceId(speaker.id));
                 dispatch(mediaDevicesActions.changeVideoInputDeviceId(camera.id));
 
                 dispatch(micOn ? myCallStateActions.unmuteMic() : myCallStateActions.muteMic());
