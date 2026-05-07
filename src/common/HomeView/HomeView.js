@@ -44,7 +44,7 @@ function HomeView() {
                     Demo App 1.0.0
                 </Typography>
                 <Typography variant="caption" display="block">
-                    SDK 5.2.0
+                    SDK 5.6.1
                 </Typography>
             </Box>
         </Container>
